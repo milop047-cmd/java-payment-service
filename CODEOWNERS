@@ -1,0 +1,8 @@
+# Default owner for all files
+* @milop047-cmd
+
+# Jenkins pipeline ownership
+/Jenkinsfile @milop047-cmd
+
+# Infrastructure ownership
+/terraform/ @milop047-cmd
